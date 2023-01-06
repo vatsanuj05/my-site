@@ -126,3 +126,9 @@ hr{
     background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
     text-decoration: none;
   }
+@media (max-width:1020px){
+    .cloud2{
+        position: absolute;
+        top: 30%;
+    }
+  }
